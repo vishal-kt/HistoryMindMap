@@ -1,0 +1,6 @@
+{
+  "name": "Bharatiya Itihas – Interactive 3D Hindi Mind Map",
+  "description": "Interactive Three.js 3D & 2D Hindi knowledge graph converting the authentic Indian History PDF into an expandable mind map for RRB, SSC, and UPSC exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
